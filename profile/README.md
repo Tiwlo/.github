@@ -1,13 +1,17 @@
 <p align="center">
+  <img src="./assets/tiwlo-hero.svg" alt="Tiwlo ecosystem banner" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://tiwlo.com">
-    <img src="./assets/tiwlo-logo.png" alt="Tiwlo" width="260" />
+    <img src="./assets/tiwlo-logo.png" alt="Tiwlo" width="240" />
   </a>
 </p>
 
 <h1 align="center">Tiwlo</h1>
 
 <p align="center">
-  <strong>A technology ecosystem for cloud, hosting, internet infrastructure, mail, commerce, payments, AI, support, and business automation.</strong>
+  <strong>Founded by Al Imran Niloy. Built for cloud, hosting, internet infrastructure, mail, commerce, payments, AI, support, and business automation.</strong>
 </p>
 
 <p align="center">
@@ -34,7 +38,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://tiwlo.com/tpanel-hosting">
-        <img src="./assets/tpanel-logo.png" alt="tPanel" height="64" />
+        <img src="./assets/tpanel-logo.png" alt="tPanel" width="260" />
       </a>
       <br />
       <strong>Hosting operations</strong>
@@ -43,7 +47,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://tiwlo.com/broadband">
-        <img src="./assets/tfiber-logo.png" alt="tFiber" height="64" />
+        <img src="./assets/tfiber-logo.png" alt="tFiber" width="260" />
       </a>
       <br />
       <strong>Internet infrastructure</strong>
@@ -52,12 +56,39 @@
     </td>
     <td align="center" width="33%">
       <a href="https://tiwlo.com">
-        <img src="./assets/tmail-logo.png" alt="tMail" height="64" />
+        <img src="./assets/tmail-logo.png" alt="tMail" width="230" />
       </a>
       <br />
       <strong>Communication layer</strong>
       <br />
       <sub>Mail identity, email portal workflows, account messages, automation, and business communication.</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/tiwlo-icon.png" alt="Tiwlo icon" width="54" />
+      <br />
+      <strong>Founder</strong>
+      <br />
+      <sub>Al Imran Niloy</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Base</strong>
+      <br />
+      <sub>Dhaka, Bangladesh</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Contact</strong>
+      <br />
+      <sub>support@tiwlo.com</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Phone</strong>
+      <br />
+      <sub>+8801410014060</sub>
     </td>
   </tr>
 </table>
@@ -150,35 +181,61 @@ Tiwlo is not only a single app or a single hosting panel. It is a growing platfo
 
 ## Platform Vision
 
-Modern businesses often need several operational systems before they can serve customers:
+Modern businesses usually need many systems before they can serve customers. Tiwlo brings those systems closer together.
 
-- A website or app
-- Hosting and cloud infrastructure
-- Domains and DNS
-- SSL certificates
-- Email and communication
-- Payment collection
-- Customer accounts
-- Support tickets
-- Fraud checks
-- Billing records
-- Admin dashboards
-- Automation and reporting
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>Infrastructure</strong>
+      <br />
+      <sub>Cloud, VPS, hosting, domains, DNS, SSL, packages, and deployment workflows.</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Operations</strong>
+      <br />
+      <sub>Customer accounts, billing records, support tickets, admin dashboards, and automation.</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Connectivity</strong>
+      <br />
+      <sub>tFiber, ISP billing, subscribers, routers, broadband packages, and service support.</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Commerce</strong>
+      <br />
+      <sub>Storefronts, products, checkout, Tiwlo Pay, invoices, payment review, and customers.</sub>
+    </td>
+  </tr>
+</table>
 
-Tiwlo brings these pieces closer together. Instead of forcing teams to move between a hosting panel, a billing system, a payment review tool, a DNS screen, an ecommerce dashboard, and a support inbox, Tiwlo is designed around one connected operational account.
+<table>
+  <tr>
+    <th align="left">Instead of scattered tools</th>
+    <th align="left">Tiwlo connects</th>
+  </tr>
+  <tr>
+    <td>Hosting panel + billing portal + DNS screen</td>
+    <td>tPanel, customer account, package limits, DNS, SSL, invoice, and service status.</td>
+  </tr>
+  <tr>
+    <td>ISP spreadsheet + router notes + payment list</td>
+    <td>tFiber subscriber records, routers, packages, invoices, payment state, and support.</td>
+  </tr>
+  <tr>
+    <td>Store dashboard + payment proof + support inbox</td>
+    <td>Cloud Store, Tiwlo Pay, customer records, orders, invoices, and support context.</td>
+  </tr>
+  <tr>
+    <td>Email inbox + account notification scripts</td>
+    <td>tMail, account messages, operational notifications, and communication workflows.</td>
+  </tr>
+  <tr>
+    <td>Manual fraud checks + hidden admin notes</td>
+    <td>tSecurity, verification, device signals, audit logs, and account review workflows.</td>
+  </tr>
+</table>
 
-The platform is especially focused on:
-
-- Cloud hosting and VPS workflows
-- Bangladesh and global hosting operations
-- tPanel-powered hosting services
-- tFiber and ISP-style internet service management
-- Ecommerce and store operations
-- Payment and invoice workflows
-- Domain, DNS, and SSL automation
-- Support and account review
-- AI-assisted operations
-- Security and abuse prevention
+Tiwlo is designed around one connected operational account. The focus is cloud hosting, Bangladesh and global hosting operations, tPanel-powered services, tFiber infrastructure, ecommerce, payment review, DNS, SSL, support, AI-assisted operations, and security.
 
 ## Product Ecosystem
 
@@ -312,85 +369,63 @@ Security in Tiwlo is not only a firewall checkbox. It follows the customer lifec
 
 ## Who Tiwlo Is For
 
-### For businesses
-
-Tiwlo helps businesses run websites, stores, domains, payments, support, communication, and automation from a practical platform.
-
-Useful for:
-
-- Startups
-- Local businesses
-- Ecommerce brands
-- Digital agencies
-- Online service providers
-- SaaS and software teams
-- Teams that want hosting, billing, and support connected
-
-### For developers
-
-Tiwlo helps developers deploy, manage, and connect infrastructure with fewer disconnected systems.
-
-Useful for:
-
-- Web apps
-- Client projects
-- APIs
-- Cloud servers
-- Domains and SSL
-- Automation workflows
-- Developer-friendly dashboards
-
-### For hosting operators
-
-Tiwlo is useful for teams that sell or manage hosting services.
-
-It can support:
-
-- Hosting packages
-- tPanel accounts
-- Customer dashboards
-- Service provisioning
-- Payment review
-- Support tickets
-- Domain and DNS workflows
-- Account security
-
-### For ISPs and connectivity operators
-
-tFiber and ISP workflows are designed for operators who need subscriber, router, billing, package, and support context in one place.
-
-Useful for:
-
-- Broadband operators
-- Local ISPs
-- Network service providers
-- Customer service teams
-- Billing teams
-
-### For ecommerce teams
-
-Cloud Store and Tiwlo Pay help ecommerce teams connect storefronts, checkout, products, customers, payments, and support.
-
-Useful for:
-
-- Online shops
-- Product catalogs
-- Local sellers
-- Agencies building stores
-- Teams needing payment and hosting together
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Businesses</h3>
+      <p>Websites, stores, domains, payments, support, communication, and automation from one practical platform.</p>
+      <p><sub>Startups, local businesses, ecommerce brands, agencies, online service providers, SaaS teams.</sub></p>
+    </td>
+    <td width="50%">
+      <h3>Developers</h3>
+      <p>Deploy, manage, and connect infrastructure with fewer disconnected systems.</p>
+      <p><sub>Web apps, client projects, APIs, cloud servers, domains, SSL, automation workflows.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Hosting Operators</h3>
+      <p>Sell and manage hosting packages with tPanel accounts, customer dashboards, service provisioning, payment review, support tickets, DNS, SSL, and account security.</p>
+    </td>
+    <td width="50%">
+      <h3>ISPs and Connectivity Teams</h3>
+      <p>Use tFiber workflows for subscribers, routers, billing, service packages, support context, customer service, and network operations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Ecommerce Teams</h3>
+      <p>Use Cloud Store and Tiwlo Pay to connect storefronts, checkout, products, customers, payments, invoices, and support.</p>
+    </td>
+    <td width="50%">
+      <h3>Support and Operations Teams</h3>
+      <p>Keep customer accounts, payment status, verification, tickets, audit logs, service records, and admin context together.</p>
+    </td>
+  </tr>
+</table>
 
 ## Engineering Direction
 
 Tiwlo is built around a few engineering principles:
 
-- Real workflows over demo screens
-- Operational clarity over marketing noise
-- Connected modules over isolated tools
-- Secure account lifecycle over one-time checks
-- Useful dashboards over decorative dashboards
-- Admin control over hidden magic
-- Practical automation over fragile shortcuts
-- Clear public product language over vague claims
+<table>
+  <tr>
+    <td width="50%"><strong>Real workflows</strong><br /><sub>Build useful operational paths instead of demo-only screens.</sub></td>
+    <td width="50%"><strong>Operational clarity</strong><br /><sub>Prefer clear controls, status, records, and accountability over marketing noise.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Connected modules</strong><br /><sub>Keep hosting, billing, support, security, payment, and customer context linked.</sub></td>
+    <td width="50%"><strong>Secure lifecycle</strong><br /><sub>Security follows signup, login, payment, service creation, support, and account review.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Useful dashboards</strong><br /><sub>Dashboards should help teams act, not only look decorative.</sub></td>
+    <td width="50%"><strong>Admin control</strong><br /><sub>Expose settings, policies, package rules, and audit context clearly.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Practical automation</strong><br /><sub>Automate repeated work without hiding important operational state.</sub></td>
+    <td width="50%"><strong>Clear product language</strong><br /><sub>Explain Tiwlo, tPanel, tFiber, tMail, Tiwlo Pay, and Cloud Store without vague claims.</sub></td>
+  </tr>
+</table>
 
 The platform is designed to grow module by module while keeping the customer, account, service, billing, support, and security context connected.
 
@@ -398,18 +433,20 @@ The platform is designed to grow module by module while keeping the customer, ac
 
 This GitHub organization will host public code, documentation, profile metadata, community files, tooling, and future open-source or developer-facing projects from Tiwlo.
 
-Expected repository areas include:
-
-- Tiwlo platform tools
-- tPanel utilities
-- tFiber tools and examples
-- tMail tools
-- API examples
-- SDKs and integrations
-- Documentation examples
-- Deployment scripts
-- Public automation utilities
-- Community and GitHub metadata
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Platform tools</strong><br /><sub>Tiwlo public utilities and automation.</sub></td>
+    <td align="center" width="25%"><strong>tPanel utilities</strong><br /><sub>Hosting and server workflow helpers.</sub></td>
+    <td align="center" width="25%"><strong>tFiber examples</strong><br /><sub>Connectivity and ISP operation references.</sub></td>
+    <td align="center" width="25%"><strong>tMail tools</strong><br /><sub>Communication and mail workflow utilities.</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>API examples</strong><br /><sub>Developer-friendly integration samples.</sub></td>
+    <td align="center" width="25%"><strong>SDKs</strong><br /><sub>Future libraries and platform connectors.</sub></td>
+    <td align="center" width="25%"><strong>Deploy scripts</strong><br /><sub>Infrastructure and setup automation.</sub></td>
+    <td align="center" width="25%"><strong>Community files</strong><br /><sub>GitHub profile and repository metadata.</sub></td>
+  </tr>
+</table>
 
 Some Tiwlo systems may remain private because they contain production platform logic, infrastructure automation, security controls, or business operations code.
 
@@ -417,26 +454,41 @@ Some Tiwlo systems may remain private because they contain production platform l
 
 Useful public pages:
 
-- Website: https://tiwlo.com
-- Products: https://tiwlo.com/products
-- Documentation: https://tiwlo.com/documentation
-- API: https://tiwlo.com/api
-- Support: https://tiwlo.com/support
-- About: https://tiwlo.com/about
-- Bangladesh hosting: https://tiwlo.com/bangladesh-hosting
-- Cloud VPS hosting: https://tiwlo.com/cloud-vps-hosting
-- tPanel hosting: https://tiwlo.com/tpanel-hosting
-- WHMCS alternative: https://tiwlo.com/whmcs-alternative
-- Hosting features: https://tiwlo.com/hosting-features
+<table>
+  <tr>
+    <td><a href="https://tiwlo.com">Website</a></td>
+    <td><a href="https://tiwlo.com/products">Products</a></td>
+    <td><a href="https://tiwlo.com/documentation">Documentation</a></td>
+    <td><a href="https://tiwlo.com/api">API</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tiwlo.com/support">Support</a></td>
+    <td><a href="https://tiwlo.com/about">About</a></td>
+    <td><a href="https://tiwlo.com/bangladesh-hosting">Bangladesh hosting</a></td>
+    <td><a href="https://tiwlo.com/cloud-vps-hosting">Cloud VPS hosting</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tiwlo.com/tpanel-hosting">tPanel hosting</a></td>
+    <td><a href="https://tiwlo.com/whmcs-alternative">WHMCS alternative</a></td>
+    <td><a href="https://tiwlo.com/hosting-features">Hosting features</a></td>
+    <td><a href="https://tiwlo.com/commerce">Commerce</a></td>
+  </tr>
+</table>
 
 ## Contact
 
 For support, business questions, product inquiries, or partnership discussions:
 
-- Email: support@tiwlo.com
-- Phone: +8801410014060
-- Location: Dhaka, Bangladesh
-- Website: https://tiwlo.com
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Founder</strong><br /><sub>Al Imran Niloy</sub></td>
+    <td align="center" width="25%"><strong>Email</strong><br /><sub>support@tiwlo.com</sub></td>
+    <td align="center" width="25%"><strong>Phone</strong><br /><sub>+8801410014060</sub></td>
+    <td align="center" width="25%"><strong>Location</strong><br /><sub>Dhaka, Bangladesh</sub></td>
+  </tr>
+</table>
+
+Website: https://tiwlo.com
 
 Social profiles:
 

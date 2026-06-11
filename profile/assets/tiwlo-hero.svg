@@ -1,0 +1,60 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020707"/>
+      <stop offset="0.48" stop-color="#061A1A"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="112" y1="116" x2="1168" y2="394" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CF4FF"/>
+      <stop offset="0.55" stop-color="#1E88FF"/>
+      <stop offset="1" stop-color="#FFB84D"/>
+    </linearGradient>
+    <filter id="softShadow" x="-40" y="-40" width="1360" height="600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="520" rx="34" fill="url(#bg)"/>
+  <circle cx="1080" cy="82" r="210" fill="#7CF4FF" fill-opacity="0.10"/>
+  <circle cx="164" cy="428" r="220" fill="#FFB84D" fill-opacity="0.10"/>
+  <path d="M88 418C232 296 311 292 450 348C589 404 692 412 826 300C956 191 1060 169 1192 226" stroke="url(#cyan)" stroke-width="3" stroke-opacity="0.55"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="64" y="58" width="1152" height="404" rx="28" fill="#071514" fill-opacity="0.78" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <rect x="90" y="84" width="1100" height="352" rx="22" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  </g>
+
+  <g transform="translate(118 118)">
+    <rect x="0" y="0" width="92" height="92" rx="20" fill="#7CF4FF"/>
+    <rect x="42" y="42" width="92" height="92" rx="20" fill="#1E88FF"/>
+    <rect x="0" y="42" width="92" height="92" rx="20" fill="#18C8D8" fill-opacity="0.88"/>
+    <rect x="42" y="42" width="92" height="92" rx="16" fill="#FFFFFF"/>
+  </g>
+
+  <text x="292" y="150" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="0">Tiwlo</text>
+  <text x="294" y="196" fill="#7CF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" letter-spacing="3">CLOUD HOSTING | tPANEL | tFIBER | tMAIL | PAYMENTS</text>
+  <text x="294" y="244" fill="#D6E4EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">A connected technology ecosystem for digital infrastructure,</text>
+  <text x="294" y="280" fill="#D6E4EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">hosting operations, internet services, commerce, support, and automation.</text>
+
+  <g transform="translate(294 322)">
+    <rect x="0" y="0" width="248" height="52" rx="16" fill="#7CF4FF" fill-opacity="0.13" stroke="#7CF4FF" stroke-opacity="0.34"/>
+    <text x="22" y="32" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">Founder: Al Imran Niloy</text>
+  </g>
+  <g transform="translate(560 322)">
+    <rect x="0" y="0" width="210" height="52" rx="16" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="22" y="32" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">Dhaka, Bangladesh</text>
+  </g>
+  <g transform="translate(790 322)">
+    <rect x="0" y="0" width="236" height="52" rx="16" fill="#FFB84D" fill-opacity="0.14" stroke="#FFB84D" stroke-opacity="0.34"/>
+    <text x="22" y="32" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">support@tiwlo.com</text>
+  </g>
+
+  <g transform="translate(928 102)">
+    <rect x="0" y="0" width="208" height="168" rx="24" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="28" y="48" fill="#7CF4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">OPERATIONS</text>
+    <text x="28" y="84" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900">Cloud</text>
+    <text x="28" y="119" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="900">Fiber</text>
+    <text x="28" y="148" fill="#D6E4EA" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Mail | Pay | Store</text>
+  </g>
+</svg>
