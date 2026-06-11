@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/tiwlo-hero.svg" alt="Tiwlo ecosystem banner" width="100%" />
+  <img src="./assets/tiwlo-banner.jpg" alt="Tiwlo banner" width="100%" />
 </p>
 
 <p align="center">
@@ -7,8 +7,6 @@
     <img src="./assets/tiwlo-logo.png" alt="Tiwlo" width="240" />
   </a>
 </p>
-
-<h1 align="center">Tiwlo</h1>
 
 <p align="center">
   <strong>Founded by Al Imran Niloy. Built for cloud, hosting, internet infrastructure, mail, commerce, payments, AI, support, and business automation.</strong>
