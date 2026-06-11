@@ -1,13 +1,13 @@
-# Tiwlo
-
 <p align="center">
   <a href="https://tiwlo.com">
-    <img src="https://tiwlo.com/brand/logo.png" alt="Tiwlo" width="220" />
+    <img src="./assets/tiwlo-logo.png" alt="Tiwlo" width="260" />
   </a>
 </p>
 
+<h1 align="center">Tiwlo</h1>
+
 <p align="center">
-  <strong>Cloud hosting, tPanel, tFiber, tMail, ecommerce, payments, domains, DNS, SSL, AI tools, ISP billing, support, and business automation.</strong>
+  <strong>A technology ecosystem for cloud, hosting, internet infrastructure, mail, commerce, payments, AI, support, and business automation.</strong>
 </p>
 
 <p align="center">
@@ -22,25 +22,131 @@
   <a href="mailto:support@tiwlo.com">Contact</a>
 </p>
 
-Tiwlo is a technology ecosystem for teams that need practical digital infrastructure in one connected place. We build cloud hosting workflows, tPanel hosting operations, tFiber internet infrastructure, tMail communication tools, ecommerce systems, digital payment flows, domains, DNS, SSL automation, support workflows, AI tools, security controls, and business automation software.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Hosting-0B7285?style=for-the-badge" alt="Cloud Hosting" />
+  <img src="https://img.shields.io/badge/tPanel-Hosting%20Ops-111827?style=for-the-badge" alt="tPanel" />
+  <img src="https://img.shields.io/badge/tFiber-Internet%20Infra-0F766E?style=for-the-badge" alt="tFiber" />
+  <img src="https://img.shields.io/badge/tMail-Communication-2563EB?style=for-the-badge" alt="tMail" />
+  <img src="https://img.shields.io/badge/Tiwlo%20Pay-Digital%20Payments-7C3AED?style=for-the-badge" alt="Tiwlo Pay" />
+</p>
 
-Our goal is simple: help businesses, developers, hosting operators, ecommerce teams, ISPs, and service providers run live customer operations without scattering the work across disconnected tools.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://tiwlo.com/tpanel-hosting">
+        <img src="./assets/tpanel-logo.png" alt="tPanel" height="64" />
+      </a>
+      <br />
+      <strong>Hosting operations</strong>
+      <br />
+      <sub>Accounts, packages, DNS, SSL, files, databases, runtimes, SSO, and server workflows.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://tiwlo.com/broadband">
+        <img src="./assets/tfiber-logo.png" alt="tFiber" height="64" />
+      </a>
+      <br />
+      <strong>Internet infrastructure</strong>
+      <br />
+      <sub>Subscribers, routers, packages, invoices, payment status, and ISP support context.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://tiwlo.com">
+        <img src="./assets/tmail-logo.png" alt="tMail" height="64" />
+      </a>
+      <br />
+      <strong>Communication layer</strong>
+      <br />
+      <sub>Mail identity, email portal workflows, account messages, automation, and business communication.</sub>
+    </td>
+  </tr>
+</table>
+
+Tiwlo builds connected tools for teams that need practical digital infrastructure in one place. The platform brings together cloud hosting workflows, tPanel hosting operations, tFiber internet infrastructure, tMail communication, ecommerce systems, digital payment flows, domains, DNS, SSL automation, support workflows, AI tools, security controls, and business automation software.
+
+Our goal is simple: help businesses, developers, hosting operators, ecommerce teams, ISPs, and service providers run live customer operations without scattering work across disconnected tools.
 
 ## What Tiwlo Builds
 
 Tiwlo is not only a single app or a single hosting panel. It is a growing platform made of connected products:
 
-| Area | What it covers |
-| --- | --- |
-| Cloud hosting | Cloud servers, VPS, web hosting, package limits, regions, provisioning, billing, and dashboards. |
-| tPanel | Hosting account operations, DNS, SSL, file manager, databases, runtime controls, SSO, and server automation. |
-| tFiber | Internet infrastructure workflows for broadband, subscribers, packages, router context, invoices, and support. |
-| tMail | Mail identity, email portal workflows, mail automation, account communication, and future communication products. |
-| Tiwlo Pay | Merchant verification, invoices, payment review, checkout, billing records, and digital payment operations. |
-| Cloud Store | Ecommerce storefronts, products, orders, customers, themes, checkout, and store admin tools. |
-| tSecurity | Abuse prevention, account review, verification, device signals, rate limits, and audit workflows. |
-| AI tools | AI-assisted admin workflows, operational copilots, business automation, and future platform intelligence. |
-| Support | Live chat, tickets, Discord routing, account context, identity review, and customer help operations. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Cloud Hosting</h3>
+      <p>Cloud servers, VPS, web hosting, package limits, regions, provisioning, billing, and dashboards.</p>
+    </td>
+    <td width="50%">
+      <h3>tPanel</h3>
+      <p>Hosting account operations, DNS, SSL, file manager, databases, runtime controls, SSO, and server automation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>tFiber</h3>
+      <p>Internet infrastructure workflows for broadband, subscribers, packages, router context, invoices, and support.</p>
+    </td>
+    <td width="50%">
+      <h3>tMail</h3>
+      <p>Mail identity, email portal workflows, mail automation, account communication, and future communication products.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Tiwlo Pay</h3>
+      <p>Merchant verification, invoices, payment review, checkout, billing records, and digital payment operations.</p>
+    </td>
+    <td width="50%">
+      <h3>Cloud Store</h3>
+      <p>Ecommerce storefronts, products, orders, customers, themes, checkout, and store admin tools.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>tSecurity</h3>
+      <p>Abuse prevention, account review, verification, device signals, rate limits, and audit workflows.</p>
+    </td>
+    <td width="50%">
+      <h3>AI + Support</h3>
+      <p>AI-assisted admin workflows, live chat, tickets, Discord routing, account context, identity review, and support automation.</p>
+    </td>
+  </tr>
+</table>
+
+## Operating Layer
+
+<table>
+  <tr>
+    <th align="left">Customer need</th>
+    <th align="left">Tiwlo layer</th>
+    <th align="left">Connected outcome</th>
+  </tr>
+  <tr>
+    <td>Launch infrastructure</td>
+    <td>Cloud hosting + tPanel</td>
+    <td>Servers, hosting accounts, package rules, domains, DNS, SSL, and dashboards work together.</td>
+  </tr>
+  <tr>
+    <td>Run connectivity services</td>
+    <td>tFiber + ISP billing</td>
+    <td>Subscribers, routers, packages, invoices, and support stay attached to the same account context.</td>
+  </tr>
+  <tr>
+    <td>Communicate with customers</td>
+    <td>tMail + support workflows</td>
+    <td>Email, account messages, live chat, tickets, and operational notifications move through one product story.</td>
+  </tr>
+  <tr>
+    <td>Sell online</td>
+    <td>Cloud Store + Tiwlo Pay</td>
+    <td>Storefronts, checkout, products, orders, merchant verification, invoices, and payment review stay connected.</td>
+  </tr>
+  <tr>
+    <td>Protect the platform</td>
+    <td>tSecurity + audit workflows</td>
+    <td>Device checks, account review, verification, abuse prevention, and logs follow the user lifecycle.</td>
+  </tr>
+</table>
 
 ## Platform Vision
 
