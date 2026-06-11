@@ -95,6 +95,10 @@ Tiwlo builds connected tools for teams that need practical digital infrastructur
 
 Our goal is simple: help businesses, developers, hosting operators, ecommerce teams, ISPs, and service providers run live customer operations without scattering work across disconnected tools.
 
+<p align="center">
+  <img src="./assets/tiwlo-support-banner.jpg" alt="Tiwlo support banner" width="100%" />
+</p>
+
 ## What Tiwlo Builds
 
 Tiwlo is not only a single app or a single hosting panel. It is a growing platform made of connected products:
@@ -237,133 +241,134 @@ Tiwlo is designed around one connected operational account. The focus is cloud h
 
 ## Product Ecosystem
 
-### Tiwlo Cloud
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="./assets/tiwlo-icon.png" alt="Tiwlo Cloud" width="58" />
+      </p>
+      <h3 align="center">Tiwlo Cloud</h3>
+      <p>Infrastructure and hosting for cloud services, web hosting, VPS hosting, domains, DNS, SSL, support, and billing in one place.</p>
+      <p><strong>Built for</strong></p>
+      <ul>
+        <li>Developers launching projects</li>
+        <li>Businesses hosting websites</li>
+        <li>Agencies managing client infrastructure</li>
+        <li>Hosting providers building service packages</li>
+        <li>Operators who need billing, support, and account state connected</li>
+      </ul>
+      <p><strong>Core ideas</strong></p>
+      <ul>
+        <li>Create services from clean packages</li>
+        <li>Keep resource limits visible</li>
+        <li>Connect billing and support to each customer</li>
+        <li>Keep DNS, SSL, domains, and account state in the same workflow</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="./assets/tpanel-logo.png" alt="tPanel" width="210" />
+      </p>
+      <h3 align="center">tPanel</h3>
+      <p>Practical hosting operations for server, package, account, DNS, SSL, file, database, runtime, SSO, and dashboard workflows.</p>
+      <p><strong>Connected workflows</strong></p>
+      <ul>
+        <li>Hosting account provisioning and package limits</li>
+        <li>Domains, DNS, SSL automation, files, and databases</li>
+        <li>PHP and Node.js runtime controls</li>
+        <li>Email account context, login, SSO, and server nodes</li>
+        <li>Billing, support, verification, payments, and customer operations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Tiwlo Cloud is the infrastructure and hosting layer for customers who need cloud services, web hosting, VPS hosting, domains, DNS, SSL, support, and billing in one place.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="./assets/tfiber-logo.png" alt="tFiber" width="210" />
+      </p>
+      <h3 align="center">tFiber</h3>
+      <p>Internet infrastructure and ISP-focused workflows for broadband-style operations inside the Tiwlo ecosystem.</p>
+      <p><strong>Operational coverage</strong></p>
+      <ul>
+        <li>Subscriber records and service packages</li>
+        <li>Router context and customer service visibility</li>
+        <li>Billing, invoices, payment status, and support workflows</li>
+        <li>ISP management tools connected with cloud, support, and billing</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="./assets/tmail-logo.png" alt="tMail" width="190" />
+      </p>
+      <h3 align="center">tMail</h3>
+      <p>Communication and mail identity for hosting, ecommerce, support, and customer communication.</p>
+      <p><strong>Planned around</strong></p>
+      <ul>
+        <li>Email portal workflows and mail identity management</li>
+        <li>Business communication and account notifications</li>
+        <li>Mail automation and operator communication tools</li>
+        <li>A complete communication layer for the Tiwlo operating system</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-It is built for:
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Tiwlo Pay</h3>
+      <p>Payment and billing workflows designed to work with the wider platform instead of acting like an isolated payment screen.</p>
+      <p><strong>Can support</strong></p>
+      <ul>
+        <li>Merchant verification and payment review</li>
+        <li>Invoices, checkout flows, and billing address collection</li>
+        <li>Payment proof context and customer account balance</li>
+        <li>Credit workflows and admin-controlled payment settings</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Cloud Store</h3>
+      <p>Ecommerce inside Tiwlo, built so businesses can launch stores while keeping payment, hosting, support, and customer accounts connected.</p>
+      <p><strong>Store workflows</strong></p>
+      <ul>
+        <li>Store creation, themes, storefronts, and products</li>
+        <li>Orders, customers, checkout, and currencies</li>
+        <li>Store admin dashboards and customer dashboards</li>
+        <li>Inventory and analytics direction</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- Developers launching projects
-- Businesses hosting websites
-- Agencies managing client infrastructure
-- Hosting providers building service packages
-- Operators who need billing, support, and account state connected
-
-Core ideas:
-
-- Create services from clean packages
-- Keep resource limits visible
-- Connect billing and support to each customer
-- Make hosting operations repeatable
-- Keep DNS, SSL, domains, and account state in the same workflow
-
-### tPanel
-
-tPanel is the hosting operations experience inside the Tiwlo ecosystem. It is designed for practical server and hosting account management.
-
-It covers workflows such as:
-
-- Hosting account provisioning
-- Package limits
-- Domains and DNS
-- SSL automation
-- File management
-- Databases
-- PHP and Node.js runtime controls
-- Email account context
-- Account login and SSO
-- Server node management
-- Admin and customer dashboards
-
-tPanel is part of the Tiwlo platform story. The goal is not to copy a generic panel, but to connect hosting controls with billing, support, verification, payments, and customer operations.
-
-### tFiber
-
-tFiber represents Tiwlo's internet infrastructure and ISP-focused product direction.
-
-It is designed for broadband-style operations, including:
-
-- Subscriber records
-- Service packages
-- Router context
-- Billing and invoices
-- Payment status
-- Support workflows
-- Customer service visibility
-- ISP management tools
-
-tFiber is part of Tiwlo's broader plan to connect cloud, connectivity, support, and billing inside one technology ecosystem.
-
-### tMail
-
-tMail is the communication and mail identity direction inside Tiwlo.
-
-It is planned around:
-
-- Email portal workflows
-- Mail identity management
-- Business communication
-- Account notifications
-- Mail automation
-- Customer and operator communication tools
-
-tMail helps complete the operating system around hosting, ecommerce, support, and customer communication.
-
-### Tiwlo Pay
-
-Tiwlo Pay focuses on payment and billing workflows.
-
-It can support:
-
-- Merchant verification
-- Payment review
-- Invoices
-- Checkout flows
-- Billing address collection
-- Payment proof context
-- Customer account balance
-- Credit workflows
-- Admin-controlled payment settings
-
-Tiwlo Pay is designed to work with the wider platform instead of acting like an isolated payment screen.
-
-### Cloud Store
-
-Cloud Store brings ecommerce into the Tiwlo ecosystem.
-
-It includes workflows for:
-
-- Store creation
-- Themes and storefronts
-- Product management
-- Orders
-- Customers
-- Checkout
-- Currencies
-- Store admin dashboards
-- Customer dashboards
-- Inventory and analytics direction
-
-The goal is to let businesses launch and operate online stores while keeping payment, hosting, support, and customer accounts connected.
-
-### tSecurity
-
-tSecurity is Tiwlo's security and abuse-prevention layer.
-
-It is built around:
-
-- Signup checks
-- Login protection
-- Device and network signals
-- Suspicious activity review
-- Disabled account review
-- Verification workflows
-- Rate limits
-- Audit logs
-- Support context
-- Abuse prevention
-
-Security in Tiwlo is not only a firewall checkbox. It follows the customer lifecycle from signup to payment, service creation, login, support, and account review.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">tSecurity</h3>
+      <p>Security and abuse-prevention that follows the customer lifecycle from signup to payment, service creation, login, support, and account review.</p>
+      <p><strong>Built around</strong></p>
+      <ul>
+        <li>Signup checks, login protection, and device or network signals</li>
+        <li>Suspicious activity review and disabled account review</li>
+        <li>Verification workflows, rate limits, audit logs, and support context</li>
+        <li>Abuse prevention connected to customer operations</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AI + Support</h3>
+      <p>Operational assistance for teams that need account context, customer records, tickets, identity review, and support automation close to the products they run.</p>
+      <p><strong>Direction</strong></p>
+      <ul>
+        <li>AI-assisted admin workflows</li>
+        <li>Live chat, tickets, and Discord routing</li>
+        <li>Account context and identity review</li>
+        <li>Support automation connected to hosting, payments, ecommerce, and ISP operations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Who Tiwlo Is For
 
